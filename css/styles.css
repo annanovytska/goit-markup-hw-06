@@ -653,8 +653,6 @@ button {
 /* MODAL FORM */
 
 .modal-form {
-  display: flex;
-  flex-direction: column;
 }
 
 .modal-title {
